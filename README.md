@@ -1,4 +1,4 @@
 Webstack - Portfolio Project
 
-colleboration on the portfolio project on github
+colleboration on the Alx portfolio project on github
 By Anosike Sucess & Ehujuo Chibueze
